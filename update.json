@@ -1,6 +1,6 @@
 {
-    "versionCode": 16,
-    "versionName": "v2.6",
-    "changelog": ["Nuevos modulos de +18", "Nuevos modulos de Donaciones","Nuevo Diseño","Servidor nuevo","Bloqueo de publicidad", "optimize prebuffer", "change player layout", "Mucho mas.."],
-    "downloadUrl": "https://github.com/getspacep/datos/releases/download/v2.6/com.tvplay.tv_v2.6_b16.apk"
+    "versionCode": 17,
+    "versionName": "v2.7",
+    "changelog": ["Nuevos diseños", "Area de eventos mejorado","Nuevo Diseño","Agregado star plus","Agregado star plusbr", "Agregado vix", "liga 1 max", "Mucho mas.."],
+    "downloadUrl": "https://github.com/getspacep/datos/releases/download/v2.7/com.tvplay.tv_v2.7_b17.apk"
 }
