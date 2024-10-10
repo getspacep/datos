@@ -1,0 +1,124 @@
+
+{
+  "urls": [
+    {
+      "titulo":"Euronews",
+      "name": "VIVO",
+      "url": "https://www.youtube.com/embed/live_stream?channel=UCyoGb3SMlTlB8CLGVH4c8Rw&autoplay=1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png"
+    },
+    {
+        "titulo":"t13envivo",
+        "name": "VIVO",
+        "url": "https://www.youtube.com/embed/1QPcqOIlxKI?si=xgDiBrKlInmbSo5A&autoplay=1",
+        "logo": "https://yt3.googleusercontent.com/Tsgm-_R7j2H1dcDZ-ZWK_54e9NW3Mm41n2uZqGpID9ZyTdg4kOpFOX36yJvZM4XMi1nf0ox3wg=s160-c-k-c0x00ffffff-no-rj"
+      },
+      {
+          "titulo":"directvsports",
+          "name": "VIVO",
+          "url": "https://futbolparaguayotv.github.io/futbolparaguayotv/dspor.html",
+          "logo": "https://www.cablevisionhd.com/imge/directvsports.png"
+        },
+		{
+          "titulo":"Deporte",
+          "name": "VIVO",
+          "url": "https://futbolparaguayotv.github.io/futbolparaguayotv/virUs.html",
+          "logo": "https://www.cablevisionhd.com/imge/directvsports.png"
+        },
+		{
+          "titulo":"Deporte 2",
+          "name": "VIVO",
+          "url": "https://voodc.com/embed/858a9389a185839787998388918a98868493.html",
+          "logo": "https://www.cablevisionhd.com/imge/directvsports.png"
+        },
+        {
+            "titulo":"Meganoticias",
+            "name": "VIVO",
+            "url": "http://iptvglobal.site/movie/1pedro/N34S43AA78/509928.mkv&autoplay=1",
+            "logo": "https://yt3.googleusercontent.com/DivHQWmzs3uHKZQfk6BiMnVMHsIU72dWLh0X5rEh4caNkYkfEV-T3nJGDx7mplosBW498zLuLi4=s160-c-k-c0x00ffffff-no-rj"
+          },
+          {
+              "titulo":"Todo Noticias",
+              "name": "VIVO",
+              "url": "https://www.youtube.com/embed/cb12KmMMDJA?si=-FL9HT0NHgdXoSoO&autoplay=1",
+              "logo": "https://yt3.googleusercontent.com/xmtKSyua-A54JzaZRXWtrQDVXmY87abFUXVpzRMgv42QZ7EdP9ZcntY8eWmhIeP6HBBqn6SQPw=s160-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "titulo":"Canal 26",
+                "name": "VIVO",
+                "url": "https://www.youtube.com/embed/MZmd9Ws4frY?si=D6FckTumHGRL2Lmp&autoplay=1",
+                "logo": "https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s160-c-k-c0x00ffffff-no-rj"
+              },
+              {
+                  "titulo":"PELICULAS",
+                  "name": "VIVO",
+                  "url": "https://b7jxgy45npkkl.pradoi.com/hls2/01/04563/8isu6xhnkpz5_n/index-v1-a1.m3u8?t=UfI0_OxYgTdtb8GLdQbdF0AwdfztjfKDh7PObl76CCc&s=1723164609&e=129600&f=22996817&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=27895",
+                  "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4a930eb-de53-4d2e-93ce-4be7a900868d-profile_image-70x70.png"
+                },
+                {
+                    "titulo":"Claro Sports",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/1oDE2TrEFAo?si=cqy7CzcPuEsshbV-&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"A24com",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/QGpHLgRnrx4?si=W6B9mcSSXmxEEUF4&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/UUDeuubaQlPaVvvMJhseVjpR0n3g3bk1kBdyN8iTmbbvK371YcZqYDzzBxqbmerAnWRl21Lp=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"NTN24",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/JxpMmv1Wm2M?si=DWfCuhj-7TGSXMEy&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m1sBVbsNiqMuUzgmlf_-tTJBjZGJKrOMLLN37-nEQgm7wR=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"Canal 26",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/rY6a3fuaQ5Q?si=FlK_tStFk6MPxH2-&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"C5N",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/NdQSOItOQ5Y?si=xqP1z1IfopoEeexi&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"FRANCE 24 Español",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/Y-IlMeCCtIg?si=gt--dZpkDrlWU1vF&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"América TV",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/zcWXboTnous?si=cV4G2lrlrGfnL3tu&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/ZYpWhccGuFXs7S33cXFfLCGeibSshOFM37ZZPhpPqz5cgl5ubbQ06U3xiWUupSmfqGSFcFpGgQ4=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"DW Español",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/Io5mt83nCcU?si=VckWxWcOzVZHHyvX&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/wp9csTLasAlwjq6Sj4WFIGc_FobrMjdAXbwqBQOylyhnsv0uSf4dDvv50DY1UX10hujeflBaqw=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"Noticias Caracol",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/oAZDO2s9eLU?si=Bm006S8xkUsjLrrn&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/GbWS4FAUjTkj5KinXso5MKfS2SAUvSs6L9jaslwWZCDOhPziHEBiPeQQAwAC2xEE-TRDeuRtfA=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"América Televisión",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/qFbmaPkuyeI?si=r-802qkYIyKwjIN4&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/Cj4eCLK2_G_iysPOnNiftpso4XPhZ_krW2RHaULdr7V0D9ipLOuLS8jslTmtv0Bff-7woFBv5A=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"Noticias RCN",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/1OdXtK-0vlQ?si=TNO6oFXFI2Vy51xn&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/zUMWq2CQ64vc5Yf6HNv0q_J7s0ad4coJAtPnXVp_-tYx6a9sP2YVD864oJKJGmcRfTfX_fbA=s160-c-k-c0x00ffffff-no-rj"
+                  },{
+                    "titulo":"Sonidos de lluvia",
+                    "name": "VIVO",
+                    "url": "https://www.youtube.com/embed/4cprc5if0iM?si=4QVYD8-2tGF4clBS&autoplay=1",
+                    "logo": "https://yt3.googleusercontent.com/P5w26p0fc5cRwExBEeMEOuhPjcRJF8VOTz9YawwLuw6eQnS_W7vEBBDQ1OmBl3pOPsBWd6GgHSo=s160-c-k-c0x00ffffff-no-rj"
+                  }
+
+                
+              
+
+  ]
+}
