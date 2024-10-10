@@ -1,0 +1,37 @@
+
+{
+  "urls": [
+    {
+      "titulo":"EVENTOS",
+      "name": "VIVO",
+      "url": "https://futbol-libre.pe/agenda.php",
+      "logo": "https://futbol-libre.pe/img/logo-futbolLibre.webp"
+    },
+		{
+      "titulo":"EVENTOS",
+      "name": "tele-libre",
+      "url": "https://1.deporte-libre.org/agenda-deportiva/",
+      "logo": "https://image.winudf.com/v2/image1/Y29tLnBhcnRpdml2by5tYWxlX3NjcmVlbl8yXzE2NTEwMDk0NThfMDEw/screen-2.jpg?fakeurl=1&type=.jpg"
+    },
+		{
+      "titulo":"EVENTOS",
+      "name": "Amistoso",
+      "url": "https://www.youtube.com/embed/QQ3UeLrXLT8?si=sWYt9woAatHz9SeV&autoplay=1",
+      "logo": "https://image.winudf.com/v2/image1/Y29tLnBhcnRpdml2by5tYWxlX3NjcmVlbl8yXzE2NTEwMDk0NThfMDEw/screen-2.jpg?fakeurl=1&type=.jpg"
+    },
+		{
+      "titulo":"EVENTOS",
+      "name": "ACHE",
+      "url": "https://latele-envivo.com/mpd2.php?id=telecinco",
+      "logo": "https://image.winudf.com/v2/image1/Y29tLnBhcnRpdml2by5tYWxlX3NjcmVlbl8yXzE2NTEwMDk0NThfMDEw/screen-2.jpg?fakeurl=1&type=.jpg"
+    }
+       
+
+
+
+
+
+
+    
+  ]
+}
