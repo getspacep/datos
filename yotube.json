@@ -2,15 +2,15 @@
 {
   "urls": [
     {
-      "titulo":"Euronews",
+      "titulo":"GOTI",
       "name": "VIVO",
-      "url": "https://www.youtube.com/embed/live_stream?channel=UCyoGb3SMlTlB8CLGVH4c8Rw&autoplay=1",
+      "url": "https://futbollibreshd.com/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZXNoZC5jb20vY29iby5odG1sP2lkPVRJR09fUFk=&autoplay=1",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png"
     },
     {
-        "titulo":"t13envivo",
+        "titulo":"TESTI",
         "name": "VIVO",
-        "url": "https://www.youtube.com/embed/1QPcqOIlxKI?si=xgDiBrKlInmbSo5A&autoplay=1",
+        "url": "https://futbollibreshd.com/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZXNoZC5jb20vY29iby5odG1sP2lkPVRJR09fUFk=",
         "logo": "https://yt3.googleusercontent.com/Tsgm-_R7j2H1dcDZ-ZWK_54e9NW3Mm41n2uZqGpID9ZyTdg4kOpFOX36yJvZM4XMi1nf0ox3wg=s160-c-k-c0x00ffffff-no-rj"
       },
       {
