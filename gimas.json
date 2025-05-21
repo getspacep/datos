@@ -3,7 +3,7 @@
     "id": "1001",
     "channel": "Canal Uno",
     "category": "28",
-    "logo": "https://tuservidor.com/imgs/canal1_poster.jpg",
+    "logo": "https://imgcdn.media/poster/h/70155618.jpg",
     "stream": "https://streaming.com/canal1/playlist.m3u8",
     "referrer": "https://tuservidor.com",
     "userAgent": "Mozilla/5.0 (Linux; Android ...)",
@@ -13,7 +13,7 @@
     "id": "1002",
     "channel": "Canal Dos",
     "category": "28",
-    "logo": "https://tuservidor.com/imgs/canal2_poster.jpg",
+    "logo": "https://imgcdn.media/poster/h/70155618.jpg",
     "stream": "https://streaming.com/canal2/playlist.m3u8",
     "referrer": "",
     "userAgent": "",
@@ -23,11 +23,11 @@
     "id": "2001",
     "channel": "Película Estelar",
     "category": "42",
-    "logo": "https://tuservidor.com/imgs/movie1_poster.jpg",
+    "logo": "https://imgcdn.media/poster/h/70155618.jpg",
     "stream": "https://streaming.com/movie1/playlist.m3u8",
     "referrer": "",
     "userAgent": "",
     "status": "active"
   }
-  // …más entradas…
+
 ]
