@@ -1,47 +1,33 @@
 [
   {
+    "id": "1001",
+    "channel": "Canal Uno",
     "category": "28",
-    "type": "DESTACADOS",
-    "banners": [
-      "https://tuservidor.com/imgs/banner1.jpg",
-      "https://tuservidor.com/imgs/banner2.jpg"
-    ],
-    "channels": [
-      {
-        "id": "1001",
-        "name": "Canal Uno",
-        "stream": "https://streaming.com/canal1/playlist.m3u8",
-        "image": "https://tuservidor.com/imgs/canal1_poster.jpg"
-      },
-      {
-        "id": "1002",
-        "name": "Canal Dos",
-        "stream": "https://streaming.com/canal2/playlist.m3u8",
-        "image": "https://tuservidor.com/imgs/canal2_poster.jpg"
-      },
-      {
-        "id": "1003",
-        "name": "Canal Tres",
-        "stream": "https://streaming.com/canal3/playlist.m3u8",
-        "image": "https://tuservidor.com/imgs/canal3_poster.jpg"
-      }
-      // …más canales…
-    ]
+    "logo": "https://tuservidor.com/imgs/canal1_poster.jpg",
+    "stream": "https://streaming.com/canal1/playlist.m3u8",
+    "referrer": "https://tuservidor.com",
+    "userAgent": "Mozilla/5.0 (Linux; Android ...)",
+    "status": "active"
   },
   {
+    "id": "1002",
+    "channel": "Canal Dos",
+    "category": "28",
+    "logo": "https://tuservidor.com/imgs/canal2_poster.jpg",
+    "stream": "https://streaming.com/canal2/playlist.m3u8",
+    "referrer": "",
+    "userAgent": "",
+    "status": "active"
+  },
+  {
+    "id": "2001",
+    "channel": "Película Estelar",
     "category": "42",
-    "type": "PELÍCULAS",
-    "banners": [
-      "https://tuservidor.com/imgs/movie_banner1.jpg"
-    ],
-    "channels": [
-      {
-        "id": "2001",
-        "name": "La Gran Película",
-        "stream": "https://streaming.com/movie1/playlist.m3u8",
-        "image": "https://tuservidor.com/imgs/movie1_poster.jpg"
-      }
-      // …y así sucesivamente…
-    ]
+    "logo": "https://tuservidor.com/imgs/movie1_poster.jpg",
+    "stream": "https://streaming.com/movie1/playlist.m3u8",
+    "referrer": "",
+    "userAgent": "",
+    "status": "active"
   }
+  // …más entradas…
 ]
