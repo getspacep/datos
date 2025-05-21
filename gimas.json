@@ -4,7 +4,7 @@
     "channel": "Canal Uno",
     "category": "28",
     "logo": "https://imgcdn.media/poster/h/70155618.jpg",
-    "stream": "https://streaming.com/canal1/playlist.m3u8",
+    "stream": "http://vedo.wvdbozpfc.com/vod/AD3F441186224C6E8C308D1D0850552F_media.ts",
     "referrer": "https://tuservidor.com",
     "userAgent": "Mozilla/5.0 (Linux; Android ...)",
     "status": "active"
@@ -14,7 +14,7 @@
     "channel": "Canal Dos",
     "category": "28",
     "logo": "https://imgcdn.media/poster/h/70155618.jpg",
-    "stream": "https://streaming.com/canal2/playlist.m3u8",
+    "stream": "http://vedo.wvdbozpfc.com/vod/AD3F441186224C6E8C308D1D0850552F_media.ts",
     "referrer": "",
     "userAgent": "",
     "status": "active"
@@ -24,7 +24,7 @@
     "channel": "Película Estelar",
     "category": "42",
     "logo": "https://imgcdn.media/poster/h/70155618.jpg",
-    "stream": "https://streaming.com/movie1/playlist.m3u8",
+    "stream": "http://vedo.wvdbozpfc.com/vod/AD3F441186224C6E8C308D1D0850552F_media.ts",
     "referrer": "",
     "userAgent": "",
     "status": "active"
