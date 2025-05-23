@@ -3,8 +3,8 @@
     "id": "1001",
     "channel": "Canal Uno",
     "category": "carrusel",
-    "logo": "https://…/poster1.jpg",
-    "stream": "http://…/media1.ts",
+    "logo": "https://imgcdn.media/poster/h/70155618.jpg",
+    "stream": "http://vedo.wvdbozpfc.com/vod/AD3F441186224C6E8C308D1D0850552F_media.ts",
     "referrer": "https://tuservidor.com",
     "userAgent": "Mozilla/5.0…",
     "status": "active"
@@ -13,8 +13,8 @@
     "id": "1002",
     "channel": "Canal Dos",
     "category": "carrusel",
-    "logo": "https://…/poster2.jpg",
-    "stream": "http://…/media2.ts",
+    "logo": "https://imgcdn.media/poster/h/70155618.jpg",
+    "stream": "http://vedo.wvdbozpfc.com/vod/AD3F441186224C6E8C308D1D0850552F_media.ts",
     "referrer": "",
     "userAgent": "",
     "status": "active"
@@ -23,8 +23,8 @@
     "id": "2001",
     "channel": "Película Estelar",
     "category": "estreno",
-    "logo": "https://…/poster3.jpg",
-    "stream": "http://…/media3.ts",
+    "logo": "https://imgcdn.media/poster/h/70155618.jpg",
+    "stream": "http://vedo.wvdbozpfc.com/vod/AD3F441186224C6E8C308D1D0850552F_media.ts",
     "referrer": "",
     "userAgent": "",
     "status": "active"
@@ -33,8 +33,8 @@
     "id": "3001",
     "channel": "Canal Tres",
     "category": "28",
-    "logo": "https://…/poster4.jpg",
-    "stream": "http://…/media4.ts",
+    "logo": "https://imgcdn.media/poster/h/70155618.jpg",
+    "stream": "http://vedo.wvdbozpfc.com/vod/AD3F441186224C6E8C308D1D0850552F_media.ts",
     "referrer": "",
     "userAgent": "",
     "status": "active"
