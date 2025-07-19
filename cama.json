@@ -1,3 +1,18 @@
+HTTP/2 200 OK
+Etag: "553ad-6876a17e-5a101d;br"
+Last-Modified: Tue, 15 Jul 2025 18:44:14 GMT
+Content-Type: application/json
+Content-Length: 349101
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Date: Tue, 15 Jul 2025 23:17:41 GMT
+Server: LiteSpeed
+
+https://caelum-panel.xyz/edit/as1d9a819/caelum2.json
+
+
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
 [
     {
         "name": "⚽ DEPORTES VARIADOS",
@@ -1671,7 +1686,7 @@
             },
             {
                 "name": "PY | SNT 🇵🇾",
-                "url": "https://edge-live31-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNjkyMjIwIiwic2lwIjoiMTgxLjQ2LjU3LjExMiIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BcnRlYXJIRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZTdiZThjMjFiYzUzZjc2Iiwic2Vzc2lvbl9pZCI6IjgxMzMwNTc0LTE3NTI1MTk0MjAtNDI2IiwiY2xpZW50X2lkIjoiMTI0MzgyMjIiLCJkZXZpY2VfaWQiOiI4MTMzMDU3NCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTQiLCJzb3VyY2VzIjpbODUsMTQ0LDE4NCw4Niw4OF19.oQRz7GRckZ0d0RrjfxNO-_gQa9MV0ZxM-V-gIzP4v1vMnBiUgOYzKok7QPw4IM3yY2XA3UKX8TSFp14KpQe7dA==/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
+                "url": "https://edge-live31-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
                 "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png",
